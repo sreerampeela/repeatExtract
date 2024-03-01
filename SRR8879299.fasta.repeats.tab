@@ -1,0 +1,2572 @@
+FT   repeat_unit     5916..6023
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 107.29 to model RUP
+FT   repeat_unit     33007..33113
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 167.95 to model RUP
+FT   repeat_unit     158060..158166
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 125.46 to model RUP
+FT   repeat_unit     complement(141349..141257)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.02 to model SPRITE
+FT   repeat_unit     41896..41991
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.47 to model SPRITE
+FT   repeat_unit     64541..64648
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 110.66 to model SPRITE
+FT   repeat_unit     complement(50750..50640)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 117.22 to model SPRITE
+FT   repeat_unit     complement(156..60)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.01 to model SPRITE
+FT   repeat_unit     81560..81670
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 126.84 to model SPRITE
+FT   repeat_unit     90749..90857
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 133.92 to model SPRITE
+FT   repeat_unit     31047..31155
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 126.02 to model SPRITE
+FT   repeat_unit     complement(35138..35036)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.27 to model SPRITE
+FT   repeat_unit     complement(13994..13887)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 95.59 to model SPRITE
+FT   repeat_unit     complement(158823..158717)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 171.47 to model RUP
+FT   repeat_unit     complement(20317..20209)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 111.91 to model SPRITE
+FT   repeat_unit     complement(17013..16933)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.19 to model SPRITE
+FT   repeat_unit     complement(20433..20326)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 125.45 to model SPRITE
+FT   repeat_unit     20148..20257
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.62 to model SPRITE
+FT   repeat_unit     complement(418..325)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.68 to model SPRITE
+FT   repeat_unit     11290..11391
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.19 to model SPRITE
+FT   repeat_unit     complement(35358..35255)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 95.32 to model SPRITE
+FT   repeat_unit     50047..50149
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.65 to model SPRITE
+FT   repeat_unit     52119..52226
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.65 to model SPRITE
+FT   repeat_unit     complement(38699..38590)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 98.67 to model SPRITE
+FT   repeat_unit     complement(143185..143082)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 140.26 to model RUP
+FT   repeat_unit     9288..9393
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.75 to model SPRITE
+FT   repeat_unit     complement(40315..40207)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 111.19 to model SPRITE
+FT   repeat_unit     complement(11430..11320)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 96.16 to model SPRITE
+FT   repeat_unit     9177..9286
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 134.96 to model SPRITE
+FT   repeat_unit     8859..8965
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 112.72 to model SPRITE
+FT   repeat_unit     309..413
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.22 to model SPRITE
+FT   repeat_unit     35187..35246
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.93 to model boxA
+FT   repeat_unit     42072..42131
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.83 to model boxA
+FT   repeat_unit     98084..98143
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.64 to model boxA
+FT   repeat_unit     111580..111639
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.10 to model boxA
+FT   repeat_unit     complement(86434..86328)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 139.33 to model RUP
+FT   repeat_unit     158535..158594
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.10 to model boxA
+FT   repeat_unit     complement(129554..129496)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.86 to model boxA
+FT   repeat_unit     complement(82576..82518)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.62 to model boxA
+FT   repeat_unit     complement(74953..74895)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 64.24 to model boxA
+FT   repeat_unit     complement(73764..73706)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.83 to model boxA
+FT   repeat_unit     complement(6557..6499)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.49 to model boxA
+FT   repeat_unit     complement(6214..6155)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.06 to model boxA
+FT   repeat_unit     complement(3233..3174)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.10 to model boxA
+FT   repeat_unit     14539..14598
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.79 to model boxA
+FT   repeat_unit     16902..16960
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 31.12 to model boxA
+FT   repeat_unit     complement(22846..22758)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 113.34 to model RUP
+FT   repeat_unit     24022..24080
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.24 to model boxA
+FT   repeat_unit     124876..124934
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.27 to model boxA
+FT   repeat_unit     complement(128383..128325)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.82 to model boxA
+FT   repeat_unit     complement(119162..119103)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.41 to model boxA
+FT   repeat_unit     complement(118267..118209)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.31 to model boxA
+FT   repeat_unit     complement(11836..11778)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 62.98 to model boxA
+FT   repeat_unit     83706..83755
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 37.57 to model boxA
+FT   repeat_unit     88436..88495
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.44 to model boxA
+FT   repeat_unit     97551..97610
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.28 to model boxA
+FT   repeat_unit     142518..142576
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.40 to model boxA
+FT   repeat_unit     33079..33184
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 103.52 to model RUP
+FT   repeat_unit     complement(116606..116559)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 44.79 to model boxA
+FT   repeat_unit     complement(41866..41807)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.99 to model boxA
+FT   repeat_unit     complement(5938..5879)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.56 to model boxA
+FT   repeat_unit     76351..76411
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.22 to model boxA
+FT   repeat_unit     90937..90995
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 54.93 to model boxA
+FT   repeat_unit     106775..106834
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.83 to model boxA
+FT   repeat_unit     126163..126222
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.58 to model boxA
+FT   repeat_unit     complement(60457..60399)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.17 to model boxA
+FT   repeat_unit     complement(60136..60078)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 66.26 to model boxA
+FT   repeat_unit     54857..54917
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.21 to model boxA
+FT   repeat_unit     41635..41741
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 147.05 to model RUP
+FT   repeat_unit     76085..76143
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.80 to model boxA
+FT   repeat_unit     79852..79910
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.22 to model boxA
+FT   repeat_unit     94199..94257
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 92.04 to model boxA
+FT   repeat_unit     complement(69920..69861)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.76 to model boxA
+FT   repeat_unit     complement(64947..64888)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.50 to model boxA
+FT   repeat_unit     complement(42488..42430)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.21 to model boxA
+FT   repeat_unit     complement(38823..38764)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.97 to model boxA
+FT   repeat_unit     103266..103325
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.91 to model boxA
+FT   repeat_unit     115378..115436
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.33 to model boxA
+FT   repeat_unit     complement(97792..97734)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 59.12 to model boxA
+FT   repeat_unit     75096..75202
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 146.89 to model RUP
+FT   repeat_unit     complement(43616..43558)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 63.28 to model boxA
+FT   repeat_unit     complement(31618..31559)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.04 to model boxA
+FT   repeat_unit     complement(30843..30786)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 55.92 to model boxA
+FT   repeat_unit     complement(17611..17553)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.68 to model boxA
+FT   repeat_unit     complement(11293..11235)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.11 to model boxA
+FT   repeat_unit     29716..29774
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.85 to model boxA
+FT   repeat_unit     84033..84091
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 64.27 to model boxA
+FT   repeat_unit     90319..90379
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.73 to model boxA
+FT   repeat_unit     complement(85666..85607)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.18 to model boxA
+FT   repeat_unit     complement(82012..81953)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.50 to model boxA
+FT   repeat_unit     142261..142367
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.73 to model RUP
+FT   repeat_unit     complement(68817..68758)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.89 to model boxA
+FT   repeat_unit     complement(46451..46391)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 33.72 to model boxA
+FT   repeat_unit     complement(1231..1172)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.21 to model boxA
+FT   repeat_unit     2115..2174
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 84.95 to model boxA
+FT   repeat_unit     14130..14188
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.31 to model boxA
+FT   repeat_unit     56947..57005
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.00 to model boxA
+FT   repeat_unit     complement(51314..51255)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.65 to model boxA
+FT   repeat_unit     complement(22944..22885)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 86.34 to model boxA
+FT   repeat_unit     complement(18647..18588)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.96 to model boxA
+FT   repeat_unit     complement(17080..17021)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 35.83 to model boxA
+FT   repeat_unit     complement(50858..50753)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 130.44 to model RUP
+FT   repeat_unit     complement(16919..16861)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.37 to model boxA
+FT   repeat_unit     complement(5260..5200)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.89 to model boxA
+FT   repeat_unit     10044..10100
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.90 to model boxA
+FT   repeat_unit     20158..20216
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 92.04 to model boxA
+FT   repeat_unit     30360..30418
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.21 to model boxA
+FT   repeat_unit     complement(32086..32039)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 56.40 to model boxA
+FT   repeat_unit     complement(22467..22409)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.72 to model boxA
+FT   repeat_unit     complement(17351..17292)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.64 to model boxA
+FT   repeat_unit     complement(14558..14499)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.34 to model boxA
+FT   repeat_unit     complement(46090..46030)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.35 to model boxA
+FT   repeat_unit     136753..136859
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 167.65 to model RUP
+FT   repeat_unit     complement(9915..9795)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 132.80 to model RUP
+FT   repeat_unit     complement(22851..22792)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.78 to model boxA
+FT   repeat_unit     complement(12630..12572)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.62 to model boxA
+FT   repeat_unit     complement(112..53)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.70 to model boxA
+FT   repeat_unit     3050..3108
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.68 to model boxA
+FT   repeat_unit     4853..4911
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.81 to model boxA
+FT   repeat_unit     11370..11429
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.42 to model boxA
+FT   repeat_unit     37654..37712
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.30 to model boxA
+FT   repeat_unit     41319..41377
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.85 to model boxA
+FT   repeat_unit     complement(35276..35217)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.76 to model boxA
+FT   repeat_unit     17600..17660
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.02 to model boxA
+FT   repeat_unit     42749..42841
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 131.95 to model RUP
+FT   repeat_unit     52894..52952
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.86 to model boxA
+FT   repeat_unit     53418..53476
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.16 to model boxA
+FT   repeat_unit     complement(43258..43197)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 67.44 to model boxA
+FT   repeat_unit     complement(4834..4776)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 47.81 to model boxA
+FT   repeat_unit     9372..9431
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.15 to model boxA
+FT   repeat_unit     18763..18822
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.09 to model boxA
+FT   repeat_unit     complement(35110..35051)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.66 to model boxA
+FT   repeat_unit     7394..7452
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 63.90 to model boxA
+FT   repeat_unit     25974..26033
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.73 to model boxA
+FT   repeat_unit     complement(11931..11872)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 45.98 to model boxA
+FT   repeat_unit     complement(107798..107692)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 172.31 to model RUP
+FT   repeat_unit     18325..18385
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.04 to model boxA
+FT   repeat_unit     12772..12832
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.20 to model boxA
+FT   repeat_unit     35996..36055
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.19 to model boxA
+FT   repeat_unit     complement(201..143)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.94 to model boxA
+FT   repeat_unit     complement(23592..23534)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.47 to model boxA
+FT   repeat_unit     3510..3569
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.60 to model boxA
+FT   repeat_unit     31997..32056
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.28 to model boxA
+FT   repeat_unit     complement(11778..11719)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.70 to model boxA
+FT   repeat_unit     7477..7536
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 86.69 to model boxA
+FT   repeat_unit     18785..18843
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.04 to model boxA
+FT   repeat_unit     70145..70251
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 166.64 to model RUP
+FT   repeat_unit     complement(9227..9167)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.52 to model boxA
+FT   repeat_unit     complement(17091..17034)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 47.61 to model boxA
+FT   repeat_unit     complement(12446..12388)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.57 to model boxA
+FT   repeat_unit     complement(517..458)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 92.09 to model boxA
+FT   repeat_unit     complement(7586..7527)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.03 to model boxA
+FT   repeat_unit     2840..2898
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 48.32 to model boxA
+FT   repeat_unit     complement(10437..10378)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 67.33 to model boxA
+FT   repeat_unit     6014..6072
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.33 to model boxA
+FT   repeat_unit     complement(9294..9234)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 36.95 to model boxA
+FT   repeat_unit     complement(135..76)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.92 to model boxA
+FT   repeat_unit     91094..91200
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 143.46 to model RUP
+FT   repeat_unit     complement(4696..4637)
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.03 to model boxA
+FT   repeat_unit     558..618
+FT                   /colour=2
+FT                   /label=boxA
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 66.68 to model boxA
+FT   repeat_unit     35248..35292
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.45 to model boxB
+FT   repeat_unit     42132..42176
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.51 to model boxB
+FT   repeat_unit     42177..42221
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 67.27 to model boxB
+FT   repeat_unit     98144..98188
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     111602..111647
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 59.68 to model boxB
+FT   repeat_unit     158557..158602
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 59.68 to model boxB
+FT   repeat_unit     complement(129532..129488)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.38 to model boxB
+FT   repeat_unit     complement(82554..82510)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.22 to model boxB
+FT   repeat_unit     102941..103047
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 164.16 to model RUP
+FT   repeat_unit     complement(74931..74887)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 67.69 to model boxB
+FT   repeat_unit     complement(73742..73698)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.38 to model boxB
+FT   repeat_unit     complement(6535..6466)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 46.22 to model boxB
+FT   repeat_unit     complement(6154..6110)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.59 to model boxB
+FT   repeat_unit     1..42
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.54 to model boxB
+FT   repeat_unit     14598..14642
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.97 to model boxB
+FT   repeat_unit     16924..16968
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 53.40 to model boxB
+FT   repeat_unit     16969..17013
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 14.63 to model boxB
+FT   repeat_unit     24044..24088
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 61.55 to model boxB
+FT   repeat_unit     124898..124942
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 64.94 to model boxB
+FT   repeat_unit     complement(121121..121015)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 138.41 to model RUP
+FT   repeat_unit     complement(128324..128280)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.73 to model boxB
+FT   repeat_unit     complement(118208..118164)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.86 to model boxB
+FT   repeat_unit     complement(11814..11770)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.02 to model boxB
+FT   repeat_unit     83756..83800
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.67 to model boxB
+FT   repeat_unit     88496..88540
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.77 to model boxB
+FT   repeat_unit     88541..88585
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.83 to model boxB
+FT   repeat_unit     88586..88630
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.08 to model boxB
+FT   repeat_unit     97612..97656
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.35 to model boxB
+FT   repeat_unit     142577..142621
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.61 to model boxB
+FT   repeat_unit     complement(41844..41799)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 63.24 to model boxB
+FT   repeat_unit     complement(104038..103932)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 98.43 to model RUP
+FT   repeat_unit     complement(5876..5832)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.31 to model boxB
+FT   repeat_unit     90996..91040
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.31 to model boxB
+FT   repeat_unit     106833..106877
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.30 to model boxB
+FT   repeat_unit     106878..106922
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.05 to model boxB
+FT   repeat_unit     126185..126230
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.37 to model boxB
+FT   repeat_unit     complement(60435..60391)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.17 to model boxB
+FT   repeat_unit     complement(60114..60070)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 63.23 to model boxB
+FT   repeat_unit     54918..54962
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.51 to model boxB
+FT   repeat_unit     54963..55007
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.51 to model boxB
+FT   repeat_unit     55008..55052
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.35 to model boxB
+FT   repeat_unit     complement(95898..95792)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 124.80 to model RUP
+FT   repeat_unit     76144..76188
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 66.03 to model boxB
+FT   repeat_unit     79874..79918
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 64.28 to model boxB
+FT   repeat_unit     94258..94302
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.28 to model boxB
+FT   repeat_unit     complement(69860..69816)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     complement(64887..64843)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     complement(64842..64798)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.01 to model boxB
+FT   repeat_unit     complement(57727..57683)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.80 to model boxB
+FT   repeat_unit     complement(42429..42385)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.90 to model boxB
+FT   repeat_unit     complement(38763..38719)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.21 to model boxB
+FT   repeat_unit     complement(38718..38674)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 53.05 to model boxB
+FT   repeat_unit     complement(69174..69068)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 144.25 to model RUP
+FT   repeat_unit     complement(38603..38559)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 48.11 to model boxB
+FT   repeat_unit     complement(38558..38514)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.67 to model boxB
+FT   repeat_unit     115437..115481
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.35 to model boxB
+FT   repeat_unit     115482..115526
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.35 to model boxB
+FT   repeat_unit     115527..115571
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.86 to model boxB
+FT   repeat_unit     115572..115616
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.18 to model boxB
+FT   repeat_unit     complement(97721..97677)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 48.24 to model boxB
+FT   repeat_unit     complement(43594..43550)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.92 to model boxB
+FT   repeat_unit     complement(36264..36218)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 27.18 to model boxB
+FT   repeat_unit     complement(31596..31551)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.37 to model boxB
+FT   repeat_unit     complement(174839..174733)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 163.25 to model RUP
+FT   repeat_unit     complement(47909..47803)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 157.95 to model RUP
+FT   repeat_unit     complement(17589..17545)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.89 to model boxB
+FT   repeat_unit     complement(17363..17319)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 19.67 to model boxB
+FT   repeat_unit     complement(11271..11227)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 66.83 to model boxB
+FT   repeat_unit     complement(11226..11182)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.60 to model boxB
+FT   repeat_unit     29738..29782
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 64.28 to model boxB
+FT   repeat_unit     84054..84099
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.38 to model boxB
+FT   repeat_unit     90380..90424
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     90425..90469
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.06 to model boxB
+FT   repeat_unit     complement(85644..85599)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 58.90 to model boxB
+FT   repeat_unit     complement(81990..81945)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 61.18 to model boxB
+FT   repeat_unit     30884..30990
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 164.81 to model RUP
+FT   repeat_unit     complement(68757..68713)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.20 to model boxB
+FT   repeat_unit     complement(62658..62613)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 24.12 to model boxB
+FT   repeat_unit     complement(1171..1127)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.92 to model boxB
+FT   repeat_unit     2176..2220
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.30 to model boxB
+FT   repeat_unit     14189..14233
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.30 to model boxB
+FT   repeat_unit     14234..14278
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     57006..57050
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.09 to model boxB
+FT   repeat_unit     57051..57095
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.09 to model boxB
+FT   repeat_unit     57096..57140
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.04 to model boxB
+FT   repeat_unit     complement(51254..51210)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.47 to model boxB
+FT   repeat_unit     37984..38090
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 137.17 to model RUP
+FT   repeat_unit     complement(22883..22838)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 61.84 to model boxB
+FT   repeat_unit     complement(22837..22793)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.86 to model boxB
+FT   repeat_unit     complement(18587..18543)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     complement(18542..18498)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.78 to model boxB
+FT   repeat_unit     complement(16860..16816)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.30 to model boxB
+FT   repeat_unit     complement(16815..16771)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.30 to model boxB
+FT   repeat_unit     complement(5198..5154)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.30 to model boxB
+FT   repeat_unit     10101..10145
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     10146..10190
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 69.07 to model boxB
+FT   repeat_unit     20217..20261
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.30 to model boxB
+FT   repeat_unit     121105..121208
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 50.88 to model RUP
+FT   repeat_unit     30382..30426
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 66.06 to model boxB
+FT   repeat_unit     complement(32038..31994)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.51 to model boxB
+FT   repeat_unit     complement(31993..31949)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.51 to model boxB
+FT   repeat_unit     complement(31948..31904)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.20 to model boxB
+FT   repeat_unit     complement(22445..22401)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 54.24 to model boxB
+FT   repeat_unit     complement(17291..17247)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.69 to model boxB
+FT   repeat_unit     complement(17246..17202)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.51 to model boxB
+FT   repeat_unit     complement(17201..17157)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.74 to model boxB
+FT   repeat_unit     complement(14498..14454)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.28 to model boxB
+FT   repeat_unit     complement(58583..58539)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.17 to model boxB
+FT   repeat_unit     complement(117094..116988)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 173.81 to model RUP
+FT   repeat_unit     complement(58538..58494)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.17 to model boxB
+FT   repeat_unit     complement(58493..58449)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.15 to model boxB
+FT   repeat_unit     complement(58448..58404)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.97 to model boxB
+FT   repeat_unit     complement(58403..58360)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 57.89 to model boxB
+FT   repeat_unit     complement(22791..22747)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     complement(22746..22702)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.20 to model boxB
+FT   repeat_unit     complement(12571..12527)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.30 to model boxB
+FT   repeat_unit     complement(52..8)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     3072..3116
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 65.47 to model boxB
+FT   repeat_unit     4875..4919
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.87 to model boxB
+FT   repeat_unit     complement(110274..110168)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 156.77 to model RUP
+FT   repeat_unit     11392..11437
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 61.93 to model boxB
+FT   repeat_unit     35148..35189
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 36.09 to model boxB
+FT   repeat_unit     37713..37757
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.60 to model boxB
+FT   repeat_unit     41341..41385
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 40.48 to model boxB
+FT   repeat_unit     complement(58117..58073)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     complement(35215..35171)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 66.82 to model boxB
+FT   repeat_unit     1..41
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 63.13 to model boxB
+FT   repeat_unit     42..86
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.78 to model boxB
+FT   repeat_unit     87..131
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.78 to model boxB
+FT   repeat_unit     132..176
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.84 to model boxB
+FT   repeat_unit     complement(37987..37900)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 103.67 to model RUP
+FT   repeat_unit     52916..52960
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 57.35 to model boxB
+FT   repeat_unit     53477..53521
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.94 to model boxB
+FT   repeat_unit     complement(43234..43189)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 61.18 to model boxB
+FT   repeat_unit     complement(4787..4743)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 37.90 to model boxB
+FT   repeat_unit     9432..9476
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.28 to model boxB
+FT   repeat_unit     18824..18868
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.31 to model boxB
+FT   repeat_unit     complement(35050..35006)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.28 to model boxB
+FT   repeat_unit     7416..7460
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 56.05 to model boxB
+FT   repeat_unit     complement(40694..40650)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 29.93 to model boxB
+FT   repeat_unit     15..59
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.99 to model boxB
+FT   repeat_unit     complement(21620..21514)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.05 to model RUP
+FT   repeat_unit     60..104
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.33 to model boxB
+FT   repeat_unit     26034..26078
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.60 to model boxB
+FT   repeat_unit     36056..36100
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.30 to model boxB
+FT   repeat_unit     complement(142..98)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.17 to model boxB
+FT   repeat_unit     complement(97..53)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.15 to model boxB
+FT   repeat_unit     complement(52..8)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.15 to model boxB
+FT   repeat_unit     complement(23533..23489)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.30 to model boxB
+FT   repeat_unit     3570..3614
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.74 to model boxB
+FT   repeat_unit     32102..32146
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 44.05 to model boxB
+FT   repeat_unit     complement(11619..11575)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.28 to model boxB
+FT   repeat_unit     complement(5566..5479)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 121.20 to model RUP
+FT   repeat_unit     complement(11574..11530)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.28 to model boxB
+FT   repeat_unit     complement(11529..11485)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 67.60 to model boxB
+FT   repeat_unit     complement(11484..11440)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.04 to model boxB
+FT   repeat_unit     7537..7581
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.49 to model boxB
+FT   repeat_unit     7582..7626
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.04 to model boxB
+FT   repeat_unit     18844..18888
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.28 to model boxB
+FT   repeat_unit     18889..18933
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.85 to model boxB
+FT   repeat_unit     complement(17037..16993)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 38.82 to model boxB
+FT   repeat_unit     complement(12387..12343)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.30 to model boxB
+FT   repeat_unit     1868..1909
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 17.06 to model boxB
+FT   repeat_unit     106628..106735
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 149.41 to model RUP
+FT   repeat_unit     complement(457..413)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.35 to model boxB
+FT   repeat_unit     complement(7526..7482)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.74 to model boxB
+FT   repeat_unit     2862..2906
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 67.52 to model boxB
+FT   repeat_unit     complement(10415..10370)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 53.13 to model boxB
+FT   repeat_unit     complement(10369..10325)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 59.85 to model boxB
+FT   repeat_unit     7211..7260
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 54.10 to model boxB
+FT   repeat_unit     6073..6117
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 76.50 to model boxB
+FT   repeat_unit     complement(75..31)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.99 to model boxB
+FT   repeat_unit     complement(4635..4591)
+FT                   /colour=2
+FT                   /label=boxB
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.01 to model boxB
+FT   repeat_unit     35293..35342
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.81 to model boxC
+FT   repeat_unit     complement(127946..127840)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 170.13 to model RUP
+FT   repeat_unit     complement(84225..84119)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 140.87 to model RUP
+FT   repeat_unit     42222..42271
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.17 to model boxC
+FT   repeat_unit     98189..98238
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 84.17 to model boxC
+FT   repeat_unit     111648..111697
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.90 to model boxC
+FT   repeat_unit     158603..158652
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.86 to model boxC
+FT   repeat_unit     complement(129487..129438)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.57 to model boxC
+FT   repeat_unit     complement(82509..82460)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.93 to model boxC
+FT   repeat_unit     complement(74886..74837)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.28 to model boxC
+FT   repeat_unit     complement(73697..73648)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 63.86 to model boxC
+FT   repeat_unit     complement(6465..6416)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.86 to model boxC
+FT   repeat_unit     complement(6109..6060)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.32 to model boxC
+FT   repeat_unit     complement(62790..62685)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 103.37 to model RUP
+FT   repeat_unit     complement(3175..3126)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.45 to model boxC
+FT   repeat_unit     43..92
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.51 to model boxC
+FT   repeat_unit     14643..14692
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 68.88 to model boxC
+FT   repeat_unit     17013..17062
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 57.18 to model boxC
+FT   repeat_unit     24089..24138
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.45 to model boxC
+FT   repeat_unit     124943..124992
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.02 to model boxC
+FT   repeat_unit     complement(128279..128230)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.36 to model boxC
+FT   repeat_unit     complement(119104..119055)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.36 to model boxC
+FT   repeat_unit     complement(118163..118114)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.84 to model boxC
+FT   repeat_unit     complement(11769..11720)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.42 to model boxC
+FT   repeat_unit     complement(1072..966)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 107.78 to model RUP
+FT   repeat_unit     83801..83850
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.99 to model boxC
+FT   repeat_unit     88631..88680
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.72 to model boxC
+FT   repeat_unit     97657..97706
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.84 to model boxC
+FT   repeat_unit     130876..130925
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.61 to model boxC
+FT   repeat_unit     142622..142671
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 84.66 to model boxC
+FT   repeat_unit     complement(116560..116511)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.36 to model boxC
+FT   repeat_unit     complement(108287..108238)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 49.38 to model boxC
+FT   repeat_unit     complement(41798..41749)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.73 to model boxC
+FT   repeat_unit     complement(5831..5782)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.72 to model boxC
+FT   repeat_unit     76410..76459
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.75 to model boxC
+FT   repeat_unit     60509..60615
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 150.33 to model RUP
+FT   repeat_unit     106923..106972
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.70 to model boxC
+FT   repeat_unit     126231..126280
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.14 to model boxC
+FT   repeat_unit     complement(60390..60341)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.22 to model boxC
+FT   repeat_unit     complement(60069..60020)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 78.67 to model boxC
+FT   repeat_unit     55053..55102
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.87 to model boxC
+FT   repeat_unit     76189..76238
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.13 to model boxC
+FT   repeat_unit     79919..79970
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.73 to model boxC
+FT   repeat_unit     94303..94352
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.57 to model boxC
+FT   repeat_unit     complement(69815..69766)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.26 to model boxC
+FT   repeat_unit     complement(64797..64748)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.88 to model boxC
+FT   repeat_unit     complement(8359..8253)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 148.72 to model RUP
+FT   repeat_unit     complement(57682..57633)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.11 to model boxC
+FT   repeat_unit     complement(42384..42335)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.72 to model boxC
+FT   repeat_unit     complement(38513..38464)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 67.11 to model boxC
+FT   repeat_unit     103324..103373
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.87 to model boxC
+FT   repeat_unit     complement(97676..97629)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 35.38 to model boxC
+FT   repeat_unit     complement(43549..43500)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.69 to model boxC
+FT   repeat_unit     complement(31550..31501)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.54 to model boxC
+FT   repeat_unit     complement(17544..17495)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.14 to model boxC
+FT   repeat_unit     complement(11181..11132)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 84.81 to model boxC
+FT   repeat_unit     90470..90519
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 73.41 to model boxC
+FT   repeat_unit     complement(8209..8103)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 163.39 to model RUP
+FT   repeat_unit     complement(85598..85549)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.72 to model boxC
+FT   repeat_unit     complement(81944..81895)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.51 to model boxC
+FT   repeat_unit     complement(68712..68663)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 70.62 to model boxC
+FT   repeat_unit     complement(62612..62563)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 44.56 to model boxC
+FT   repeat_unit     complement(46392..46343)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 62.52 to model boxC
+FT   repeat_unit     complement(1126..1077)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.51 to model boxC
+FT   repeat_unit     2221..2270
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.54 to model boxC
+FT   repeat_unit     14279..14328
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.39 to model boxC
+FT   repeat_unit     57141..57190
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 86.13 to model boxC
+FT   repeat_unit     complement(51209..51160)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.36 to model boxC
+FT   repeat_unit     234..340
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 163.75 to model RUP
+FT   repeat_unit     complement(18497..18448)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.53 to model boxC
+FT   repeat_unit     complement(16770..16721)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 32.19 to model boxC
+FT   repeat_unit     complement(5153..5104)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.81 to model boxC
+FT   repeat_unit     10191..10240
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.10 to model boxC
+FT   repeat_unit     20262..20311
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.30 to model boxC
+FT   repeat_unit     30427..30476
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.72 to model boxC
+FT   repeat_unit     complement(17156..17107)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.47 to model boxC
+FT   repeat_unit     complement(14453..14404)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.72 to model boxC
+FT   repeat_unit     complement(58359..58310)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 84.67 to model boxC
+FT   repeat_unit     complement(46031..45982)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.39 to model boxC
+FT   repeat_unit     57545..57651
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 176.86 to model RUP
+FT   repeat_unit     complement(22701..22652)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.33 to model boxC
+FT   repeat_unit     complement(12526..12477)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 86.72 to model boxC
+FT   repeat_unit     3117..3166
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.12 to model boxC
+FT   repeat_unit     4920..4969
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.88 to model boxC
+FT   repeat_unit     11438..11487
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.51 to model boxC
+FT   repeat_unit     37758..37807
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 85.18 to model boxC
+FT   repeat_unit     complement(58072..58023)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 84.07 to model boxC
+FT   repeat_unit     complement(35173..35124)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 62.96 to model boxC
+FT   repeat_unit     177..226
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.90 to model boxC
+FT   repeat_unit     17659..17708
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 57.72 to model boxC
+FT   repeat_unit     complement(23223..23117)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 160.75 to model RUP
+FT   repeat_unit     52961..53010
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 88.99 to model boxC
+FT   repeat_unit     53522..53571
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.51 to model boxC
+FT   repeat_unit     complement(43188..43137)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 75.89 to model boxC
+FT   repeat_unit     complement(38762..38713)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 32.71 to model boxC
+FT   repeat_unit     complement(4742..4693)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 53.27 to model boxC
+FT   repeat_unit     9477..9526
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 86.93 to model boxC
+FT   repeat_unit     18869..18918
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.69 to model boxC
+FT   repeat_unit     complement(35005..34960)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 47.67 to model boxC
+FT   repeat_unit     7461..7510
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.32 to model boxC
+FT   repeat_unit     complement(40649..40600)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 33.51 to model boxC
+FT   repeat_unit     complement(20348..20242)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 105.22 to model RUP
+FT   repeat_unit     105..154
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 72.36 to model boxC
+FT   repeat_unit     26079..26128
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 86.49 to model boxC
+FT   repeat_unit     18384..18433
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 89.04 to model boxC
+FT   repeat_unit     12831..12880
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.86 to model boxC
+FT   repeat_unit     complement(23488..23439)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.54 to model boxC
+FT   repeat_unit     3615..3664
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.57 to model boxC
+FT   repeat_unit     32055..32099
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 36.06 to model boxC
+FT   repeat_unit     complement(11439..11390)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.72 to model boxC
+FT   repeat_unit     7627..7676
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 74.41 to model boxC
+FT   repeat_unit     18934..18983
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.69 to model boxC
+FT   repeat_unit     complement(100862..100756)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 148.32 to model RUP
+FT   repeat_unit     complement(43653..43547)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 148.86 to model RUP
+FT   repeat_unit     complement(9168..9119)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 90.36 to model boxC
+FT   repeat_unit     complement(16992..16943)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 63.97 to model boxC
+FT   repeat_unit     complement(12342..12293)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 86.26 to model boxC
+FT   repeat_unit     6103..6152
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 33.00 to model boxC
+FT   repeat_unit     1910..1959
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.32 to model boxC
+FT   repeat_unit     complement(412..363)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.90 to model boxC
+FT   repeat_unit     complement(7481..7432)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.69 to model boxC
+FT   repeat_unit     complement(8830..8775)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 60.45 to model boxC
+FT   repeat_unit     2907..2956
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.58 to model boxC
+FT   repeat_unit     complement(10324..10275)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 82.05 to model boxC
+FT   repeat_unit     complement(18478..18372)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 131.50 to model RUP
+FT   repeat_unit     7261..7308
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 48.16 to model boxC
+FT   repeat_unit     6118..6167
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 80.01 to model boxC
+FT   repeat_unit     complement(9235..9186)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 77.57 to model boxC
+FT   repeat_unit     complement(4590..4541)
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 83.16 to model boxC
+FT   repeat_unit     617..666
+FT                   /colour=2
+FT                   /label=boxC
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.91 to model boxC
+FT   repeat_unit     complement(16519..16413)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 145.19 to model RUP
+FT   repeat_unit     complement(4173..4067)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 144.70 to model RUP
+FT   repeat_unit     192..297
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 106.76 to model RUP
+FT   repeat_unit     complement(32265..32159)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 165.29 to model RUP
+FT   repeat_unit     20106..20211
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 96.21 to model RUP
+FT   repeat_unit     40350..40456
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 162.46 to model RUP
+FT   repeat_unit     40469..40575
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 143.35 to model RUP
+FT   repeat_unit     45680..45786
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 97.10 to model RUP
+FT   repeat_unit     complement(21971..21866)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 133.05 to model RUP
+FT   repeat_unit     46042..46148
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 164.69 to model RUP
+FT   repeat_unit     complement(41032..40927)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 110.07 to model RUP
+FT   repeat_unit     18569..18675
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 146.96 to model RUP
+FT   repeat_unit     complement(25116..25027)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 71.51 to model RUP
+FT   repeat_unit     complement(21063..20957)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 145.97 to model RUP
+FT   repeat_unit     complement(12047..11944)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 79.65 to model RUP
+FT   repeat_unit     complement(10230..10124)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 167.21 to model RUP
+FT   repeat_unit     complement(358..252)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 166.75 to model RUP
+FT   repeat_unit     complement(34280..34173)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 109.46 to model RUP
+FT   repeat_unit     complement(29272..29166)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 119.76 to model RUP
+FT   repeat_unit     13414..13520
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 163.85 to model RUP
+FT   repeat_unit     complement(25946..25840)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 166.65 to model RUP
+FT   repeat_unit     125..231
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 172.90 to model RUP
+FT   repeat_unit     complement(9695..9589)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 168.22 to model RUP
+FT   repeat_unit     complement(32742..32636)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 148.72 to model RUP
+FT   repeat_unit     complement(32592..32486)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 169.90 to model RUP
+FT   repeat_unit     complement(33266..33174)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 135.04 to model RUP
+FT   repeat_unit     complement(19070..18967)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 49.69 to model RUP
+FT   repeat_unit     complement(178..72)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 141.03 to model RUP
+FT   repeat_unit     28894..29000
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 154.00 to model RUP
+FT   repeat_unit     6379..6485
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 170.75 to model RUP
+FT   repeat_unit     75875..75981
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 169.68 to model RUP
+FT   repeat_unit     17371..17477
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 167.91 to model RUP
+FT   repeat_unit     17202..17308
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 114.96 to model RUP
+FT   repeat_unit     complement(197..96)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 122.11 to model RUP
+FT   repeat_unit     complement(9281..9178)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 57.25 to model RUP
+FT   repeat_unit     complement(2287..2186)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 91.48 to model RUP
+FT   repeat_unit     complement(2146..2041)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 93.75 to model RUP
+FT   repeat_unit     complement(1886..1780)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 168.95 to model RUP
+FT   repeat_unit     complement(227..121)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 150.77 to model RUP
+FT   repeat_unit     14504..14610
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 176.09 to model RUP
+FT   repeat_unit     19097..19199
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.79 to model RUP
+FT   repeat_unit     76653..76759
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 147.35 to model RUP
+FT   repeat_unit     10934..11040
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 87.52 to model RUP
+FT   repeat_unit     complement(4954..4849)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 136.34 to model RUP
+FT   repeat_unit     complement(1761..1655)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 170.32 to model RUP
+FT   repeat_unit     1018..1124
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 134.70 to model RUP
+FT   repeat_unit     9324..9430
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 160.59 to model RUP
+FT   repeat_unit     complement(387..281)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 155.17 to model RUP
+FT   repeat_unit     complement(249..143)
+FT                   /colour=2
+FT                   /label=RUP
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 128.04 to model RUP
+FT   repeat_unit     complement(128044..127936)
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 105.06 to model SPRITE
+FT   repeat_unit     11884..11991
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 81.26 to model SPRITE
+FT   repeat_unit     16807..16911
+FT                   /colour=2
+FT                   /label=SPRITE
+FT                   /note=Detected using HMMER hmmls -c -t; match of score 107.91 to model SPRITE
+FT   repeat_unit     35187..35342
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     42072..42271
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(6214..6060)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     18785..18918
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(9227..9119)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(17091..16943)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(12446..12293)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(517..363)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(7586..7432)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     2840..2956
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(10437..10275)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     6014..6167
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(9294..9186)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(3233..3126)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(135..8)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(4696..4541)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     558..666
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     1..92
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(57727..57633)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(38603..38464)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(97721..97629)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(62658..62563)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(58583..58310)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(22791..22652)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     14539..14692
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(58117..58023)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     1..226
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(40694..40600)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     1..154
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(11619..11390)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     18824..18983
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     1868..1959
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     7211..7308
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     16902..17062
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     24022..24138
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     124876..124992
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(128383..128230)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(119162..119055)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(118267..118114)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(11836..11720)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     98084..98238
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     83706..83850
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     88436..88680
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     97551..97706
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     142518..142671
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(116606..116511)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(41866..41749)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(5938..5782)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     76351..76459
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     90937..91040
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     106775..106972
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     111580..111697
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     126163..126280
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(60457..60341)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(60136..60020)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     54857..55102
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     76085..76238
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     79852..79970
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     94199..94352
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(69920..69766)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(64947..64748)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(42488..42335)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     158535..158652
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(38823..38713)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     103266..103373
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     115378..115616
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(43616..43500)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(31618..31501)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(17611..17495)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(11293..11132)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     29716..29782
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     84033..84099
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     90319..90519
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(129554..129438)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(85666..85549)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(82012..81895)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(68817..68663)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(46451..46343)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(1231..1077)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     2115..2270
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     14130..14328
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     56947..57190
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(51314..51160)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(22944..22793)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(82576..82460)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(18647..18448)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(17080..16943)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(16919..16721)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(5260..5104)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     10044..10240
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     20158..20311
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     30360..30476
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(32086..31904)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(22467..22401)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(17351..17107)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(74953..74837)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(14558..14404)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(46090..45982)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(22851..22793)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(12630..12477)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(112..8)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     3050..3166
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     4853..4969
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     11370..11487
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     37654..37807
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     41319..41385
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(73764..73648)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(35276..35124)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     17600..17708
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     52894..53010
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     53418..53571
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(43258..43137)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(4834..4693)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     9372..9526
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     18763..18918
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(35110..34960)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     7394..7510
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(6557..6416)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     25974..26128
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     18325..18433
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     12772..12880
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     35996..36100
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(201..8)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(23592..23439)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     3510..3664
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     31997..32099
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     complement(11778..11720)
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX
+FT   repeat_unit     7477..7676
+FT                   /colour=4
+FT                   /note=Composite BOX element
+FT                   /label=BOX

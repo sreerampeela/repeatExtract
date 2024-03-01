@@ -1,0 +1,42 @@
+hmmls - search long sequences for local matches to a hidden Markov model
+     version 1.8.4, July 1997
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+HMM file:                   Repeat_HMMs/SPRITE.hmm
+Sequence database:          ./genomeFiles/SRR8879299.fasta
+Report scores above:        66.00
+Scan window size:           1000
+Do complementary strand:    yes
+Fancy alignment output:     no
+[Printing multiple non-overlapping hits per sequence]
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+105.06 (bits) f:128044 t:127936 Target: NODE_1_length_174992_cov_19.537 
+81.26  (bits) f:11884 t:11991 Target: NODE_2_length_167303_cov_21.723 
+107.91 (bits) f:16807 t:16911 Target: NODE_2_length_167303_cov_21.723 
+69.02  (bits) f:141349 t:141257 Target: NODE_2_length_167303_cov_21.723 
+91.47  (bits) f:41896 t:41991 Target: NODE_3_length_142843_cov_15.063 
+110.66 (bits) f:64541 t:64648 Target: NODE_3_length_142843_cov_15.063 
+117.22 (bits) f:50750 t:50640 Target: NODE_3_length_142843_cov_15.063 
+68.01  (bits) f:  156 t:   60 Target: NODE_3_length_142843_cov_15.063 
+126.84 (bits) f:81560 t:81670 Target: NODE_4_length_129680_cov_24.537 
+133.92 (bits) f:90749 t:90857 Target: NODE_4_length_129680_cov_24.537 
+126.02 (bits) f:31047 t:31155 Target: NODE_6_length_121243_cov_20.608 
+70.27  (bits) f:35138 t:35036 Target: NODE_6_length_121243_cov_20.608 
+95.59  (bits) f:13994 t:13887 Target: NODE_7_length_119207_cov_17.639 
+111.91 (bits) f:20317 t:20209 Target: NODE_8_length_70755_cov_23.4083 
+89.19  (bits) f:17013 t:16933 Target: NODE_8_length_70755_cov_23.4083 
+125.45 (bits) f:20433 t:20326 Target: NODE_9_length_68443_cov_22.6021 
+85.62  (bits) f:20148 t:20257 Target: NODE_10_length_58599_cov_18.527 
+83.68  (bits) f:  418 t:  325 Target: NODE_10_length_58599_cov_18.527 
+70.19  (bits) f:11290 t:11391 Target: NODE_11_length_58121_cov_19.185 
+95.32  (bits) f:35358 t:35255 Target: NODE_11_length_58121_cov_19.185 
+77.65  (bits) f:50047 t:50149 Target: NODE_12_length_57447_cov_18.248 
+69.65  (bits) f:52119 t:52226 Target: NODE_12_length_57447_cov_18.248 
+98.67  (bits) f:38699 t:38590 Target: NODE_12_length_57447_cov_18.248 
+83.75  (bits) f: 9288 t: 9393 Target: NODE_13_length_54877_cov_15.967 
+111.19 (bits) f:40315 t:40207 Target: NODE_14_length_49008_cov_22.079 
+96.16  (bits) f:11430 t:11320 Target: NODE_15_length_44489_cov_22.241 
+134.96 (bits) f: 9177 t: 9286 Target: NODE_28_length_22407_cov_15.685 
+112.72 (bits) f: 8859 t: 8965 Target: NODE_32_length_17617_cov_14.915 
+88.22  (bits) f:  309 t:  413 Target: NODE_40_length_5142_cov_15.0499 
