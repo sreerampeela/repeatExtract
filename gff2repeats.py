@@ -79,7 +79,7 @@ class gene:
       for k in repsOut:
         j = k.rstrip().strip().split(" ")
         for i in range(len(j)):
-          x = re.search(j[i], chrid)
+          x = re.search(j[i], chrid) ## all chrs returned
           if x:
             # print(k.split(" "))
             kdata = k.split(" ")
