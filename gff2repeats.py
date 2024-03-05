@@ -8,7 +8,7 @@ def readGFF(gffFile):
         data = [i.split("\t") for i in gffInput.readlines()
                 if i.startswith("#") is False]
         df = pd.DataFrame(data, columns=[
-                          "Chr", "method", "type", "start", "end", "d", "strand", 
+                          "Chr", "method", "type", "start", "end", "d", "strand",
                           "p", "info"])
         df = df.dropna()
         # print(df.head())
@@ -40,6 +40,7 @@ def get_gene_names(gff_file):
         genenames.append(geneName)
     return genenames
 
+
 def getGeneLoc(gff_file, genename=["hypothetical protein"]):
     gff_file_df = readGFF(gffFile=gff_file)
     geneStarts = gff_file_df["start"]
@@ -51,14 +52,24 @@ def getGeneLoc(gff_file, genename=["hypothetical protein"]):
     for genesearch in genename:
         if genesearch in geneids:
             print(f"{genesearch} located")
-            
+
             indval = geneids.index(genesearch)
             genechr, start, end, strand = chrnames[indval], geneStarts[indval], geneends[indval], genestrand[indval]
         else:
             print(f"{genesearch} not located")
-            genechr, start, end, strand = -1,-1,-1, -1
-        return genechr, start,end,strand
+            genechr, start, end, strand = -1, -1, -1, -1
+        return genechr, start, end, strand
 
+
+def parseRepOut(repoutfile):
+    """To read a repeats output file and create a dataframe from the output"""
+    repsh = open(repoutfile, 'r', encoding="utf-8", newline="\n")
+    repsOut = repsh.readlines()[13:]
+    pattern = re.compile(r'([\d.]+)\s+\(bits\) f:(\d+) t:(\d+) Target:\s+(.+)')
+    data = [match.groups() for match in pattern.finditer("\n".join(repsOut))]
+    df = pd.DataFrame(data, columns=['Bits', 'Start', 'Stop', 'Target'])
+    print(df.head())
+    return df
 
 
 class gene:
@@ -69,59 +80,20 @@ class gene:
         self.start = start
         self.end = end
         self.chrName = chrName
-    
+
     def extract_reps(self, repsFile):
-      nups, ndowns = 0, 0
-      chrid = self.chrName
-      repsh = open(repsFile, 'r', encoding="utf-8", newline="\n")
-      repsOut = repsh.readlines()[13:]
-      # print(repsOut)
-      for k in repsOut:
-        j = k.rstrip().strip().split(" ")
-        for i in range(len(j)):
-          x = re.search(j[i], chrid) ## all chrs returned
-          if x:
-            # print(k.split(" "))
-            kdata = k.split(" ")
-            startpos = [i.replace(" ", "") for i in kdata if i.startswith("f:") is True]
-            # print(startpos)
-            startposdata = [i.split(":") for i in startpos]
-            # print(startposdata)
-            if startposdata[0][1] == "":
-              indval = kdata.index("f:")+1
-              while kdata[indval] == "":
-                indval += 1
-              repstart = int(kdata[indval])
-            else:
-              repstart = int(startposdata[0][1])
-            # repstart = int("".join([i.split(":") for i in kdata if i.startswith("f") is True]))
-            # # repstop = [i.split(":") for i in kdata if i.startswith("t") is True]
-            # print(repstart)
-            if int(self.start) > repstart:
-              # print("rep located upstream")
-              nups += 1
-            elif int(self.start) < repstart:
-              # print("rep located downstream")
-              ndowns += 1
-            else:
-              print("rep at gene start")
-      return nups, ndowns
-          
+        nups, ndowns = 0, 0
+        chrid = self.chrName
+        repsDF = parseRepOut(repsFile)
+        chrmatch = "_".join(chrid.split("_")[:5])
+        x = repsDF["Target"].str.startswith(chrmatch)
+        print(x)
+        repsDF['geneloc'] = x
+        matchedDF = repsDF[repsDF["geneloc"] == True]
+        print(matchedDF)
+        startpos, endpos = self.start, self.end
+        nups = matchedDF[matchedDF["Start"] < startpos].shape[0]
+        ndowns = matchedDF[matchedDF["Start"] > startpos].shape[0]
 
-
-chrname, start,end, strand = getGeneLoc(gff_file="1453.gff", genename=["psaA"])
-print(chrname, start, end, strand)
-# print(len(geneIDS))
-genetest = gene(name="psaA", start=start, end=end, strand=strand, chrName=chrname)
-nups, ndowns = genetest.extract_reps(repsFile="SRR8879299.fasta.boxA.rep")
-print(genetest.name, "boxA", nups, ndowns)
-nups, ndowns = genetest.extract_reps(repsFile="SRR8879299.fasta.boxB.rep")
-print(genetest.name, "boxB", nups, ndowns)
-nups, ndowns = genetest.extract_reps(repsFile="SRR8879299.fasta.boxC.rep")
-print(genetest.name, "boxC", nups, ndowns)
-nups, ndowns = genetest.extract_reps(repsFile="SRR8879299.fasta.RUP.rep")
-print(genetest.name, "RUP", nups, ndowns)
-nups, ndowns = genetest.extract_reps(repsFile="SRR8879299.fasta.SPRITE.rep")
-print(genetest.name, "SPRITE", nups, ndowns)
-
-
+        # repsDF.to_csv("tmp_boxA.csv", index=False)
+        return nups, ndowns
