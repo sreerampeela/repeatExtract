@@ -1,12 +1,12 @@
-from gff2repeats import *
+import gff2repeats as repcode
 
-parseRepOut("SRR8879299.fasta.boxA.rep")
+repcode.parseRepOut("SRR8879299.fasta.boxA.rep")
 # all chromosomes getting ouptut..to correct this error
-chrname, start, end, strand = getGeneLoc(
+chrname, start, end, strand = repcode.getGeneLoc(
     gff_file="1453.gff", genename=["psaA"])
 print(chrname, start, end, strand)
 # print(len(geneIDS))
-genetest = gene(name="psaA", start=start, end=end,
+genetest = repcode.gene(name="psaA", start=start, end=end,
                 strand=strand, chrName=chrname)
 nups, ndowns = genetest.extract_reps(repsFile="SRR8879299.fasta.boxA.rep")
 print(genetest.name, "boxA", nups, ndowns)
