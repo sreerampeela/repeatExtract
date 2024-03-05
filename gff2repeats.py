@@ -68,7 +68,7 @@ def parseRepOut(repoutfile):
     pattern = re.compile(r'([\d.]+)\s+\(bits\) f:(\d+) t:(\d+) Target:\s+(.+)')
     data = [match.groups() for match in pattern.finditer("\n".join(repsOut))]
     df = pd.DataFrame(data, columns=['Bits', 'Start', 'Stop', 'Target'])
-    print(df.head())
+    # print(df.head())
     return df
 
 
@@ -87,10 +87,10 @@ class gene:
         repsDF = parseRepOut(repsFile)
         chrmatch = "_".join(chrid.split("_")[:5])
         x = repsDF["Target"].str.startswith(chrmatch)
-        print(x)
+        # print(x)
         repsDF['geneloc'] = x
         matchedDF = repsDF[repsDF["geneloc"] == True]
-        print(matchedDF)
+        # print(matchedDF)
         startpos, endpos = self.start, self.end
         nups = matchedDF[matchedDF["Start"] < startpos].shape[0]
         ndowns = matchedDF[matchedDF["Start"] > startpos].shape[0]
