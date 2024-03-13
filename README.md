@@ -4,8 +4,11 @@ located both upstream and downstream of a gene.
 
 Dependencies:
 Python - >v3.7
+
 Biopython
+
 Pandas
+
 Numpy
 
 For both the scripts, the help menu can be displayed using "--help" argument 
