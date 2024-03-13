@@ -31,5 +31,5 @@ ABRICATE tsv file for a sample will be written as separate output files.
 
 
 usage:
-python3 abricate2repsParser.py --dir <data dir> --out <output file prefix>
+python3 abricate2repsParser.py --dir $PWD --out test
 
